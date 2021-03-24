@@ -1,0 +1,28 @@
+.actualité-item {
+  margin: 5vh;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 280px;
+  padding: 3vh;
+  border-radius: 10px;
+  box-shadow:1px 5px 7px rgba(0, 0, 0, 0.2);
+}
+.actualité-item h3 {
+  color: #2980b9;
+}
+.actualité-item__button {
+  transform: translate(50%);
+  width: 50%;
+  height: 40px !important;
+  background: #16a085 !important;
+  color: #ffffff !important;
+}
+.actualité-item__date {
+  color: #7f8c8d;
+}
+.actualité-item__description {
+  text-align: left;
+}

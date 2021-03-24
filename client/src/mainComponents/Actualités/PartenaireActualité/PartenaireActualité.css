@@ -1,0 +1,35 @@
+.partenaire-actualité__container {
+  padding-top: 15vh;
+  width: 80%;
+  margin: auto;
+}
+.partenaire-actualité__container h2 {
+  font-weight: 400;
+  text-align: center;
+  margin: 5vh;
+  color: rgba(0, 0, 0, 0.5);
+}
+.date-place {
+  margin-left: 42%;
+  color: rgba(0, 0, 0, 0.5);
+  margin-bottom: 2vh;
+}
+.date-place p {
+  display: flex;
+  width: 250px;
+  justify-content: space-around;
+}
+.desc {
+  width: 70%;
+  text-align: center;
+  margin: auto;
+  padding: 5vh;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 900px) {
+  .date-place {
+    margin-left: 35%;
+  }
+}

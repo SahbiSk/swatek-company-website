@@ -1,0 +1,28 @@
+.catalogue-item {
+  margin: 3vh;
+  padding: 3vh;
+}
+.catalogue-item h2 {
+  color: #3498db;
+  margin-bottom: 3vh;
+}
+.catalogue-item h3 {
+  color: #7f8c8d;
+  font-weight: 400;
+}
+.catalogue-item li {
+  background: white;
+}
+.catalogue-item * {
+  margin: 1vh;
+}
+.catalogue-item .mots {
+  display: flex;
+  align-items: center;
+}
+.catalogue-item strong {
+  color: #7f8c8d;
+}
+.catalogue-item p {
+  margin: 2vh;
+}

@@ -1,0 +1,11 @@
+.commentaire h4 span {
+  color: #16a085;
+}
+.commentaire {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.main-container-message {
+  border-radius: 25px;
+}

@@ -1,0 +1,12 @@
+.main-actualités {
+  padding-top: 17vh;
+}
+.main-actualités h2 {
+  margin-left: 10%;
+}
+.main-actualités__items {
+  margin: auto;
+  width: 90%;
+  display: grid;
+  grid-template-columns: 1fr  1fr;
+}

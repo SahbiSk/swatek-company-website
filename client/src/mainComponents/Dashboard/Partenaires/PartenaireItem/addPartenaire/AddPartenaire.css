@@ -1,0 +1,39 @@
+.add-item-partenaire__button {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  border: none;
+  background: #16a085;
+  color: white;
+  font-size: 15px;
+  cursor: pointer;
+}
+.add-item-partenaire__fields {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 80%;
+  width: 80%;
+  margin: auto;
+}
+.add-item-partenaire {
+  background: white;
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  border-radius: 10px;
+  width: 50%;
+}
+.validate-container {
+  display: flex;
+  align-items: center;
+  margin: auto;
+  height: 80px;
+}
+
+.add-item-partenaire__fields .input {
+  border: none;
+  border-radius: 20px;
+  text-align: center;
+  background: #ecf0f1;
+}

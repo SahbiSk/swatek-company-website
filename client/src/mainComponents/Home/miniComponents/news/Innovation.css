@@ -1,0 +1,26 @@
+.innovation-img {
+  width: 120px;
+  border-radius: 50%;
+  margin: 10px;
+}
+.innovation-item {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 10px;
+}
+.description {
+  color: rgb(146, 148, 150);
+}
+.lorem {
+  font-size: 15px;
+}
+
+.title {
+  height: 50px;
+  padding:  10px;
+}
+.title span {
+  margin-right: 10px;
+  color: #3498db;
+}

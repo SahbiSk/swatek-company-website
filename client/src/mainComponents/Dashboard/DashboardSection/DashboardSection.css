@@ -1,0 +1,5 @@
+.admin-commentaires-messages-section {
+  display: flex;
+  justify-content: space-around;
+  padding: auto;
+}

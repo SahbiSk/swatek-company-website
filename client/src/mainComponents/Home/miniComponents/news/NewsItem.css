@@ -1,0 +1,21 @@
+.item {
+  display: flex;
+  height: 50%;
+  margin: 0.5vh;
+}
+.item h3 {
+  font-size: 18px;
+}
+.item p {
+  color: #a3a5a7;
+  margin-left: 10px;
+}
+.item span {
+  color: #16a085;
+  font-size: 20px;
+}
+@media (max-width: 900px) {
+  .item {
+    margin: 0;
+  }
+}
